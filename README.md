@@ -1,5 +1,10 @@
-# API для Yatube
-Реализация API для блог-платформы Yatube. Доступны операции CRUD, используются ViewSet и аутентификация при помощи JWT-токенов.
+# <h1 align="center">API для Yatube</h1>
+Реализация API для блог-платформы Yatube, на которой пользователи могут создавать посты и комментариями к ним, а также подписываться на других пользователей. Доступны операции CRUD, используются ViewSet и аутентификация при помощи JWT-токенов.
+
+## Основные технологии
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Как запустить проект
 Клонировать репозиторий и перейти в него в командной строке:
